@@ -4,6 +4,8 @@ Welcome to the official repository for ApoCanD, a dedicated database of human ap
 
 Database URL: https://webs.iiitd.edu.in/raghava/apocand/index.php
 
+ZENODO : https://doi.org/10.5281/zenodo.20067656
+
 ## Citation
 
 Kumar, R., & Raghava, G. P. S. (2016).
